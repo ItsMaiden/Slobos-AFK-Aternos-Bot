@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "RealmNarenia.aternos.me:49263",
+    "port":  49263,
     "version": "",
     "try-creative": false
   },
